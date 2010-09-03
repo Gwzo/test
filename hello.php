@@ -1,1 +1,4 @@
-<?php echo "Hello github"; ?>
+<?php 
+	echo "Hello github";
+	echo "I'm testing...";
+?>
