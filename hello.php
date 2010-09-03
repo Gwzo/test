@@ -1,1 +1,1 @@
-<?php echo "Hello svn"; ?>
+<?php echo "Hello github"; ?>
